@@ -1,0 +1,4 @@
+This is a sample text for testing
+This line contains nothing
+The file is to check for pattern searching by brute force method
+sample gives extra line output for pattern sample
